@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Subjective</string>
+    <string name="text_playButton">Play</string>
+
+    <string name="text_pregunta">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:</string>
+    <string name="text_pregunta2">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:</string>
+    <string name="text_pregunta3">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra</string>
+    <string name="text_pregunta4">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:4</string>
+    <string name="text_pregunta5">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:5</string>
+    <string name="text_pregunta6">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:6</string>
+    <string name="text_pregunta7">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:7</string>
+    <string name="text_pregunta8">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:8</string>
+    <string name="text_pregunta9">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:9</string>
+    <string name="text_pregunta10">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:10</string>
+    <string name="text_pregunta11">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:11</string>
+    <string name="text_pregunta12">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:12</string>
+    <string name="text_pregunta13">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:13</string>
+    <string name="text_pregunta14">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:14</string>
+    <string name="text_pregunta15">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:15</string>
+    <string name="text_pregunta16">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:16</string>
+    <string name="text_pregunta17">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:17</string>
+    <string name="text_pregunta18">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:18</string>
+    <string name="text_pregunta19">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:19</string>
+    <string name="text_pregunta20">Luego de escuchar el siguiente audio, determine en que posición cree que se encuentra la guitarra:20</string>
+
+    <string name="explicacion">Pretendiendo que el centro del siguiente diagrama polar representa su cabeza y que por tanto su oido izquierdo estaria ubicado en -180 y el derecho a 0, responda la siguientes preguntas:</string>
+    <string name="button_aceptar">Guardar y Seguir</string>
+    <string name="ingresa_tu_respuesta">Ingresa tu respuesta</string>
+
+
+    <string name="pregunta_1">PREGUNTA 1</string>
+    <string name="startTest">Comenzar</string>
+    <string name="contentImg">logoApp</string>
+    <string name="ingresa_tu_nombre">Ingresa tu código:</string>
+
+    <string name="hello">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:gray;background-color:white;">
+  Esta prueba busca evaluar dos formatos de captura para audio basado en objetos haciendo uso de la tecnología de audio ambisonico, por tal motivo se aplicara una prueba que permitirá determinar qué tipo de captura permite localizar de manera más precisa la ubicación de las fuentes sonoras. En la prueba usted deberá responder a una serie de preguntas que aparecerán de forma aleatoria, en la cual deberá determinar la posición (en grados) donde cree que se encuentra la fuente sonora (en este caso una guitarra).
+  Para ello pretenda que el centro del diagrama polar representa su cabeza y que por tanto su oído izquierdo estaría ubicado en 270º y el derecho a 90º.
+ </body>
+</html>
+]]>
+</string>
+
+    <string name="calibration">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:gray;background-color:white;">
+  A continuación va a escuchar una serie de audios cada 5 segundos, estos corresponden al sonido del instrumento interpretado (guitarra) desplazado cada 45 grados en el sentido de las manecillas del reloj, esto con el fin de que conozca de antemano la sonoridad del instrumento interpretado en las diferentes posiciones. ¡Así mismo, ajuste el nivel de volumen de sus audífonos!
+ </body>
+</html>
+]]>
+</string>
+
+</resources>
